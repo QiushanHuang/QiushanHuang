@@ -4,7 +4,27 @@
 
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="100%">
+
+<table>
+  <tr>
+    <td valign="middle" width="22%">
+
+<strong>Email</strong>
+
+  </td>
+    <td valign="middle" width="78%">
+
+<a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
+
+  </td>
+  </tr>
+</table>
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%">
 
 <table>
   <tr>
@@ -15,20 +35,6 @@ The Hong Kong University of Science and Technology (Guangzhou)<br />
 <sub>Ph.D. Student · Computational Soft Matter</sub><br /><br />
 National University of Singapore<br />
 <sub>Master's in Civil Engineering</sub>
-
-  </td>
-  </tr>
-</table>
-
-  </td>
-    <td valign="top" width="30%">
-
-<table>
-  <tr>
-    <td valign="top">
-
-<strong>Email</strong><br /><br />
-<a href="mailto:huangqiushan.cn@gmail.com"><strong>huangqiushan.cn@gmail.com</strong></a>
 
   </td>
   </tr>
