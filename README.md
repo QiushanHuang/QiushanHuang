@@ -8,10 +8,6 @@
 
 <table>
   <tr>
-    <td valign="top" width="100%">
-
-<table>
-  <tr>
     <td valign="middle" width="18%">
 
 <img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" />
@@ -47,12 +43,6 @@
     <td>Master's in Civil Engineering</td>
   </tr>
 
-  </td>
-  </tr>
-</table>
-
-  </td>
-  </tr>
 </table>
 
 <p align="left">
