@@ -6,44 +6,11 @@
 
 ### 🎓 Education
 
-<table>
-  <tr>
-    <td valign="middle" width="18%">
-
-<img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" />
-
-  </td>
-    <td valign="middle">
-
-<strong>The Hong Kong University of Science and Technology (Guangzhou)</strong>
-
-  </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Ph.D. Student · Computational Soft Matter</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><sub>··············</sub></td>
-  </tr>
-  <tr>
-    <td valign="middle" width="18%">
-
-<img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" />
-
-  </td>
-    <td valign="middle">
-
-<strong>National University of Singapore</strong>
-
-  </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Master's in Civil Engineering</td>
-  </tr>
-
-</table>
+> <img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" /> **The Hong Kong University of Science and Technology (Guangzhou)**  
+> Ph.D. Student · Computational Soft Matter  
+> <sub>··············</sub>  
+> <img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" /> **National University of Singapore**  
+> Master's in Civil Engineering
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1600&color=0969DA&vCenter=true&repeat=true&width=720&height=32&lines=Computational+Materials;Simulation+Workflows;Open-Source+Tooling" alt="Typing tagline" />
