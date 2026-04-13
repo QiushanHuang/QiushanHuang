@@ -14,12 +14,13 @@
   <tr>
     <td valign="top">
 
+<img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" />
 <strong>The Hong Kong University of Science and Technology (Guangzhou)</strong><br />
 <sub>Ph.D. Student · Computational Soft Matter</sub><br />
 <img src="https://img.shields.io/badge/Ph.D.%20Student-F6F8FA?style=flat-square&labelColor=F6F8FA&color=F6F8FA" alt="Ph.D. Student" />
 <img src="https://img.shields.io/badge/Computational%20Soft%20Matter-F6F8FA?style=flat-square&labelColor=F6F8FA&color=F6F8FA" alt="Computational Soft Matter" />
 <br />
-<sub>····················</sub><br />
+<img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" />
 <strong>National University of Singapore</strong><br />
 <sub>Master's in Civil Engineering</sub><br />
 <img src="https://img.shields.io/badge/Master's%20Degree-F6F8FA?style=flat-square&labelColor=F6F8FA&color=F6F8FA" alt="Master's Degree" />
