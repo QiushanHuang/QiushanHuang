@@ -2,14 +2,25 @@
 
 ### 📬 Me
 
+<table>
+  <tr>
+    <td valign="top" width="34%">
+
 **Email**  
 huangqiushan.cn@gmail.com
 
+  </td>
+    <td valign="top" width="66%">
+
 **Education**  
-**HKUST(GZ)** <sub>The Hong Kong University of Science and Technology (Guangzhou)</sub>  
+**The Hong Kong University of Science and Technology (Guangzhou)**  
 Ph.D. Student · Computational Soft Matter  
-**NUS** <sub>National University of Singapore</sub>  
+**National University of Singapore**  
 Master's in Civil Engineering
+
+  </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1600&color=0969DA&vCenter=true&repeat=true&width=720&height=32&lines=Computational+Materials;Simulation+Workflows;Open-Source+Tooling" alt="Typing tagline" />
@@ -93,27 +104,20 @@ Version-pinned LAMMPS input preparation toolkit.
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QiushanHuang&theme=github" alt="GitHub Stats" />
 
   </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QiushanHuang&theme=github" alt="Most Used Languages" />
 
   </td>
+    <td valign="top" width="34%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=QiushanHuang&bg_color=ffffff&color=1f2328&line=0969da&point=1f6feb&area=true&hide_border=false" alt="Activity Graph" />
+
+  </td>
   </tr>
 </table>
-
-### 📈 Activity Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QiushanHuang&bg_color=ffffff&color=1f2328&line=0969da&point=1f6feb&area=true&hide_border=false" width="100%" alt="Activity Graph" />
-</p>
-
-### 🗂️ Contribution Graph
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QiushanHuang&theme=github" width="100%" alt="Contribution Graph" />
-</p>
