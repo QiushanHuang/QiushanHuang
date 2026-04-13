@@ -4,19 +4,35 @@
 
 <table>
   <tr>
-    <td valign="top" width="34%">
+    <td valign="top" width="70%">
 
-**Email**  
-huangqiushan.cn@gmail.com
+<table>
+  <tr>
+    <td valign="top">
+
+<strong>Education</strong><br /><br />
+The Hong Kong University of Science and Technology (Guangzhou)<br />
+<sub>Ph.D. Student · Computational Soft Matter</sub><br /><br />
+National University of Singapore<br />
+<sub>Master's in Civil Engineering</sub>
 
   </td>
-    <td valign="top" width="66%">
+  </tr>
+</table>
 
-**Education**  
-**The Hong Kong University of Science and Technology (Guangzhou)**  
-Ph.D. Student · Computational Soft Matter  
-**National University of Singapore**  
-Master's in Civil Engineering
+  </td>
+    <td valign="top" width="30%">
+
+<table>
+  <tr>
+    <td valign="top">
+
+<strong>Email</strong><br /><br />
+<a href="mailto:huangqiushan.cn@gmail.com"><strong>huangqiushan.cn@gmail.com</strong></a>
+
+  </td>
+  </tr>
+</table>
 
   </td>
   </tr>
@@ -104,19 +120,14 @@ Version-pinned LAMMPS input preparation toolkit.
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QiushanHuang&theme=github" alt="GitHub Stats" />
 
   </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QiushanHuang&theme=github" alt="Most Used Languages" />
-
-  </td>
-    <td valign="top" width="34%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=QiushanHuang&bg_color=ffffff&color=1f2328&line=0969da&point=1f6feb&area=true&hide_border=false" alt="Activity Graph" />
 
   </td>
   </tr>
