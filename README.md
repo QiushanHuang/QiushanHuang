@@ -1,28 +1,12 @@
 <h1 align="left">Qiushan Huang</h1>
 
+<p align="left">
+  <a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
+</p>
+
 ### 📬 Me
 
 <table>
-  <tr>
-    <td valign="top" width="100%">
-
-<table>
-  <tr>
-    <td valign="middle" width="22%">
-
-<strong>Email</strong>
-
-  </td>
-    <td valign="middle" width="78%">
-
-<a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
-
-  </td>
-  </tr>
-</table>
-
-  </td>
-  </tr>
   <tr>
     <td valign="top" width="100%">
 
