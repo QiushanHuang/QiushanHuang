@@ -12,11 +12,7 @@
 
 <table>
   <tr>
-    <td valign="top">
-
-<table>
-  <tr>
-    <td valign="middle" width="22%">
+    <td valign="middle" width="18%">
 
 <img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" />
 
@@ -27,12 +23,15 @@
 
   </td>
   </tr>
-</table>
-Ph.D. Student · Computational Soft Matter
-<br /><br />
-<table>
   <tr>
-    <td valign="middle" width="22%">
+    <td></td>
+    <td>Ph.D. Student · Computational Soft Matter</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub>··············</sub></td>
+  </tr>
+  <tr>
+    <td valign="middle" width="18%">
 
 <img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" />
 
@@ -43,8 +42,10 @@ Ph.D. Student · Computational Soft Matter
 
   </td>
   </tr>
-</table>
-Master's in Civil Engineering
+  <tr>
+    <td></td>
+    <td>Master's in Civil Engineering</td>
+  </tr>
 
   </td>
   </tr>
