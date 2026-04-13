@@ -8,7 +8,7 @@
 
 > <img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" /> **The Hong Kong University of Science and Technology (Guangzhou)**  
 > Ph.D. Student · Computational Soft Matter  
-> <sub>··············</sub>  
+>  
 > <img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" /> **National University of Singapore**  
 > Master's in Civil Engineering
 
