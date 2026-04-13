@@ -1,10 +1,10 @@
 <h1 align="left">Qiushan Huang</h1>
 
 <p align="left">
-  <a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
+  Email 📬: <a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
 </p>
 
-### 📬 Me
+### 🎓 Education
 
 <table>
   <tr>
