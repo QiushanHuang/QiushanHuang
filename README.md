@@ -96,12 +96,12 @@ Version-pinned LAMMPS input preparation toolkit.
   <tr>
     <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QiushanHuang&theme=github" width="92%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QiushanHuang&theme=github" width="84%" alt="GitHub Stats" />
 
   </td>
     <td valign="top" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QiushanHuang&theme=github" width="92%" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QiushanHuang&theme=github" width="84%" alt="Most Used Languages" />
 
   </td>
   </tr>
