@@ -1,7 +1,7 @@
 <h1 align="left">Qiushan Huang</h1>
 
 <p align="left">
-  Email 📬: <a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
+  Email 📬: <a href="mailto:huangqiushan.cn@gmail.com"><代码>huangqiushan.cn@gmail.com</代码></a>
 </p>
 
 <p align="left">
@@ -50,6 +50,7 @@ Current research centers on molecular dynamics simulations of liquid crystals, e
   </td>
   </tr>
 </table>
+
 
 ### 🎓 Education
 
