@@ -42,54 +42,6 @@ Current research centers on molecular dynamics simulations of liquid crystals, e
   <img src="https://img.shields.io/badge/Hybrid%20MD%20%2B%20ML%20Framework-EAF2FF?style=for-the-badge&logoColor=1247A6&labelColor=EAF2FF&color=EAF2FF" alt="Hybrid MD + ML Framework" />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 🧪 Current Work
-
-- LCE simulation workflow exploration
-- Paper reading, extraction, and structured note workflows
-- Obsidian-centered knowledge systems
-
-  </td>
-  <td valign="top" width="50%">
-
-### ⚡ Recent
-
-- Image indexing workflow improvements
-- Cross-platform paper tooling iterations
-- LAMMPS preparation toolkit maintenance
-
-  </td>
-  </tr>
-</table>
-
-### ✨ Featured Projects
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-**[obsidian-image-reindexer](https://github.com/QiushanHuang/obsidian-image-reindexer)**  
-Stable, note-aware image organization for Obsidian vaults.
-
-  </td>
-    <td valign="top" width="33%">
-
-**[paperer-skill-plugin](https://github.com/QiushanHuang/paperer-skill-plugin)**  
-Cross-platform paper workflow tooling for coding agents.
-
-  </td>
-    <td valign="top" width="33%">
-
-**[lamprep](https://github.com/QiushanHuang/lamprep)**  
-Version-pinned LAMMPS input preparation toolkit.
-
-  </td>
-  </tr>
-</table>
-
 ### 📊 GitHub Stats
 
 <table>
