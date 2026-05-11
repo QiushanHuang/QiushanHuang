@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1600&color=0969DA&vCenter=true&repeat=true&width=720&height=32&lines=Computational+Materials;Simulation+Workflows;Open-Source+Tooling" alt="Typing tagline" />
+  <img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1600&color=0969DA&vCenter=true&repeat=true&width=720&height=32&lines=Computational+Materials;Simulation+Workflows;Open-Source+Tooling" alt="Typing tagline" />
 </p>
 
 <p align="left">
