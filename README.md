@@ -1,7 +1,7 @@
 <h1 align="left">Qiushan Huang</h1>
 
 <p align="left">
-  Email 📬: <a href="mailto:huangqiushan.cn@gmail.com"><代码>huangqiushan.cn@gmail.com</代码></a>
+  Email 📬: <a href="mailto:huangqiushan.cn@gmail.com">huangqiushan.cn@gmail.com</代码></a>
 </p>
 
 <p align="left">
