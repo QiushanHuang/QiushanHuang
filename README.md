@@ -4,14 +4,6 @@
   Email 📬: <a href="mailto:huangqiushan.cn@gmail.com"><code>huangqiushan.cn@gmail.com</code></a>
 </p>
 
-### 🎓 Education
-
-> <img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" /> **The Hong Kong University of Science and Technology (Guangzhou)**  
-> Ph.D. Student · Computational Soft Matter  
->  
-> <img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" /> **National University of Singapore**  
-> Master's in Civil Engineering
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1600&color=0969DA&vCenter=true&repeat=true&width=720&height=32&lines=Computational+Materials;Simulation+Workflows;Open-Source+Tooling" alt="Typing tagline" />
 </p>
@@ -58,3 +50,11 @@ Current research centers on molecular dynamics simulations of liquid crystals, e
   </td>
   </tr>
 </table>
+
+### 🎓 Education
+
+> <img src="https://img.shields.io/badge/HKUST(GZ)-003366?style=for-the-badge&labelColor=996600&color=003366" alt="HKUST(GZ)" /> **The Hong Kong University of Science and Technology (Guangzhou)**  
+> Ph.D. Student · Computational Soft Matter  
+>  
+> <img src="https://img.shields.io/badge/NUS-EF7C00?style=for-the-badge&labelColor=003D7C&color=EF7C00" alt="NUS" /> **National University of Singapore**  
+> Master's in Civil Engineering
